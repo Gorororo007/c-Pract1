@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\bin\Debug\net8.0\Pract1C#.exe
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\bin\Debug\net8.0\Pract1C#.deps.json
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\bin\Debug\net8.0\Pract1C#.runtimeconfig.json
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\bin\Debug\net8.0\Pract1C#.dll
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\bin\Debug\net8.0\Pract1C#.pdb
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.dll
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\refint\Pract1C#.dll
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.pdb
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\Pract1C#.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Pract1C#\Pract1C#\obj\Debug\net8.0\ref\Pract1C#.dll
